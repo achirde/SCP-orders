@@ -8,5 +8,6 @@ module.exports = function (grunt) {
 		"clean",
 		"lint",
 		"build"
+		
 	]);
 };
